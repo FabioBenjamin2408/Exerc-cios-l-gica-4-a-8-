@@ -18,7 +18,7 @@ int main() {
         scanf("%d", &B[num]);
     }
 
-    // Cálculo do vetor C (subtração dos elementos de A e B)
+    // Cálculo do vetor C (junção dos elementos de A e B)
     for (num = 0; num < 5; num++) {
         C[num] = A[num];
     }
